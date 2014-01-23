@@ -144,6 +144,7 @@ public class CategoryList extends ListActivity{
 				e.printStackTrace();
 			}
 			
+			
 		}
 	}
 }
