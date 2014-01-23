@@ -143,6 +143,7 @@ public class CategoryList extends ListActivity{
 			} catch (JSONException e) {
 				e.printStackTrace();
 			}
+			
 		}
 	}
 }
